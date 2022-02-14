@@ -1,0 +1,26 @@
+_repo: Illustrations-of-the-Huttonian-Theory-of-the-Earth_67331
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Playfair, John
+    gutenberg_agent_id: '54215'
+    url: http://www.gutenberg.org/2009/agents/54215
+description: ''
+gutenberg_issued: '2022-02-06'
+identifiers:
+  gutenberg: '67331'
+language: en
+pgterms:marc904: https://archive.org/details/NHM104643
+pgterms:marc905: 20201031070135playfair
+pgterms:marc906: '1802'
+pgterms:marc907: UK
+production_note: Tom Cosmas produced from materials made available at The Internet
+  Archive and placed in the Public Domain.
+publication_note: UK :Cadell and Davies,1802.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Illustrations of the Huttonian Theory of the Earth
+url: http://www.gutenberg.org/ebooks/67331
