@@ -1,11 +1,16 @@
 _repo: Illustrations-of-the-Huttonian-Theory-of-the-Earth_67331
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67331-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Playfair, John
     gutenberg_agent_id: '54215'
     url: http://www.gutenberg.org/2009/agents/54215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67331#Illustrations-of-the-Huttonian-Theory-of-the-Earth
 gutenberg_issued: '2022-02-06'
 identifiers:
   gutenberg: '67331'
